@@ -1,0 +1,7 @@
+101:021:"Greetings, earthlings, I have come to rule you!"
+232:019:Hello, Mother, I can't talk right now,
+101:017:Here is a message from an important visitor:
+232:015:I am being harangued by a little green thingy.
+101:018:"Quincy Jones, best producer ever!"
+232:018:"Rod Temperton besst songwriter ever!".
+END
